@@ -112,7 +112,7 @@ The visuals weren't talking to each other at first because of a one-way filter. 
 * **Carbs are the Engine for Calories:** When looking at the regular menu (`Keto = No`), the scatter plot shows a massive, almost perfectly linear correlation. If a Starbucks drink is high in calories, it is almost entirely driven by sugar/carbohydrates, not fats or proteins.
 * **The "Keto Cliff":** Flipping the filter to `Keto = Yes` absolutely decimates the menu. The average calories free-fall from ~160 down to just 2.5. This proves that Starbucks doesn't really offer "heavy but low-carb" drinks (like heavy-cream-based options); if it's keto-friendly, it's essentially just water, black coffee, or plain tea.
 * **The Frappuccino Danger Zone:** Look at the top-right quadrant of the first scatter plot (the dark green Tier 4 dots). That cluster is completely dominated by Frappuccinos and Smoothies, easily pushing past 300 calories and hitting 60g to 80g of carbs per drink. 
-* **The Sweetened Baseline:** By establishing our true 27.8g carb baseline, the bar chart reveals that classic favorites like the *Cinnamon Dolce Latte* or *White Chocolate Mocha* aren't just a little sweet—they actively push 15g to 35g of carbs *above* the average of already sweetened drinks.
+* **The Sweetened Baseline:** By establishing our true 27.8g carb baseline, the bar chart reveals that classic favorites like the *Cinnamon Dolce Latte* or *White Chocolate Mocha* aren't just a little sweet they actively push 15g to 35g of carbs *above* the average of already sweetened drinks.
 
   <p align="center">
   <img src="Dashboard Starbucks - Keto Friendly.jpg" width="500" alt="Market Gap Analysis: Health Score vs. Consumer Rating"/>

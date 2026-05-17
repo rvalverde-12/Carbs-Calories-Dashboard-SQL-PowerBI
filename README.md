@@ -106,3 +106,8 @@ The visuals weren't talking to each other at first because of a one-way filter. 
 * **Clean & Centered KPIs:** I centered the metrics and turned off the automatic text labels underneath them. **Why:** Power BI puts the column name by default (like "First Drink Name"), which looks messy. Putting a clean title box above them looks way sharper.
 * **Modern Floating Cards:** Turned off the default black borders on the KPI cards and added soft, light-gray shadows instead. **Why:** Thick borders look outdated. Shadows give the dashboard a clean, modern "floating app" aesthetic.
 * **Fixed Long Text Clipping:** Bumped the Y-axis padding width to **35%**. **Why:** Starbucks has super long drink names. The default settings cut them off (e.g., *"Teavana Shaken Ice..."*), making it impossible to read. Now you can see the full product names clearly.
+
+  <p align="center">
+  <img src="Dashboard Starbucks - Keto Friendly.jpg" width="500" alt="Market Gap Analysis: Health Score vs. Consumer Rating"/>
+</p>
+
